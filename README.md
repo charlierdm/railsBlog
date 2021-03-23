@@ -12,3 +12,9 @@ For the next 2 weeks at Makers Academy, we are learning and using Rails to serve
 
 * To feel confident using a feature rich web appication framework having learnt web app development using Sinatra. 
 
+## Learning Rails
+
+Here I will document some of the key learning points during my introduction to the Rails Framework.
+
+* I have Rails set up with RSpec for test driving and a 'Hello world' on the index page.
+
