@@ -18,3 +18,4 @@ Here I will document some of the key learning points during my introduction to t
 
 * I have Rails set up with RSpec for test driving and a 'Hello world' on the index page.
 
+<img width="360" alt="Screenshot 2021-03-23 at 10 27 16" src="https://user-images.githubusercontent.com/75075773/112133363-87504380-8bc3-11eb-8ea3-8b454d309ef5.png">
